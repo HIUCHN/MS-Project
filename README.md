@@ -1,5 +1,7 @@
 This project proposes a Bayesian Belief Network (BBN) model to quantify money laundering risk in financial transactions. Using synthetic data, the model is developed at both transaction and account levels. The BBN structure is learned using the Bayesian Search algorithm, with parameters optimized via Expectation Maximization (EM).
 The modelling framework was illustrated below:
+![Modelling Framework](https://github.com/user-attachments/assets/fa6363a5-94ce-4419-8da6-734ad314f734)
+
 
 Key findings include:
 

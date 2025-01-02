@@ -1,6 +1,6 @@
 This project proposes a Bayesian Belief Network (BBN) model to quantify money laundering risk in financial transactions. Using synthetic data, the model is developed at both transaction and account levels. Python was utilized to clean, EDA, and feature engineer to prepare data for modelling. The BBN structure is learned using the Bayesian Search algorithm, with parameters optimized via Expectation Maximization (EM) in Genie Software, which is a specialized application for modelling Bayesian Belief Network.
 The modelling framework was illustrated below:
-![image](https://github.com/user-attachments/assets/8304250e-5943-4887-858c-e96f61fd1944)
+                              ![image](https://github.com/user-attachments/assets/8304250e-5943-4887-858c-e96f61fd1944)
 
 
 The modelling process give a structure a graph model that illustrates the relationship and the impact of features in relevant to target variable (Fraud). These two figures below showed structure of transaction - based model and account - based model.

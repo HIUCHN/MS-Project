@@ -4,4 +4,7 @@ The modelling framework was illustrated below:
 Key findings include:
 
 	- Transaction Model: Achieved an AUC of 0.98, highlighting key factors such as sender behavior and transaction amount in predicting fraud.
+ 	![image](https://github.com/user-attachments/assets/03a2633a-7a4f-407f-835d-5c04fdde8384)
+
 	- Account Model: Achieved an AUC of 0.64, with insights into account-level risk factors like degree centrality and balance volatility.
+ 	![image](https://github.com/user-attachments/assets/64a5480e-b301-4e66-b921-9d290f4eda87)
